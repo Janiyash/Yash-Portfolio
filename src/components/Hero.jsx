@@ -6,7 +6,7 @@ export default function Hero() {
     <section
       id="home"
       className="
-        relative min-h-screen flex items-center pt-24 md:pt-32 overflow-hidden
+        relative min-h-screen flex items-center pt-32 md:pt-32 overflow-hidden
         bg-gradient-to-br from-[#0B0F19] via-[#0F172A] to-[#020617]
       "
     >
@@ -119,9 +119,9 @@ export default function Hero() {
               alt="Profile"
               className="
                 relative
-                w-64 h-64
-                sm:w-72 sm:h-72
-                md:w-96 md:h-96
+                w-90 h-90
+                sm:w-90 sm:h-90
+                md:w-90 md:h-90
                 object-cover rounded-full shadow-2xl
                 transform transition-all duration-500
                 group-hover:scale-105
