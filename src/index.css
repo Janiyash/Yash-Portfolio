@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* FORCE DARK THEME EVERYWHERE */
+html,
+body {
+  background-color: #0b0f19; /* soft black */
+  color: #e5e7eb; /* light gray text */
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
