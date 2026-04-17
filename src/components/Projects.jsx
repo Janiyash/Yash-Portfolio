@@ -131,7 +131,7 @@ function TiltCard({ children, glow }) {
     </motion.div>
   );
 }
-
+ 
 export default function Projects() {
   return (
     <section id="projects" className="relative py-28 bg-[#0b0f19] overflow-hidden">
