@@ -17,7 +17,7 @@ const socials = [
     icon: <FaLinkedin className="text-2xl" />,
     label: "LinkedIn",
     value: "linkedin.com/in/jani-yash001/",
-    href: "https://www.linkedin.com/in/jani-yash/",
+    href: "https://www.linkedin.com/in/jani-yash001/",
     color: "blue",
   },
   {
